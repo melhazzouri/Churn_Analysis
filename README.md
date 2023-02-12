@@ -6,10 +6,15 @@ There are various methods for measuring the churn rate, including the number of 
 ## Modelling
 ###  1. Machine Learning models
 Several models were tested:
+
 1- Logistic Regression
+
 2- Support Vector Classifier
+
 3- Decision Tree Classifier
+
 4- K-nearest Classifier
+
 5- Random Forest Classfier
 
 ### 2. Neural Networks
