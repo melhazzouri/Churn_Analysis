@@ -1,4 +1,4 @@
-# omparing Machine Learning Models and Neural Networks for Customer Churn Prediction
+# Comparing Machine Learning Models and Neural Networks for Customer Churn Prediction
 The departure of customers can be costly for any business, which is why detecting dissatisfaction early allows companies to retain them by offering incentives. This notebook discusses the use of machine learning (ML) to automate the process of predicting customer churn, or identifying unhappy customers.
 
 There are various methods for measuring the churn rate, including the number of customers lost, the percentage of customers lost in comparison to the company's total customer base, the value of recurring business lost, or the percentage of recurring value lost. However, in this particular dataset, it is defined as a binary variable for each customer, and determining the rate is not the focus. The idea of the churn rate implies that there are factors that affect it, so the objective is to identify and quantify those factors.
